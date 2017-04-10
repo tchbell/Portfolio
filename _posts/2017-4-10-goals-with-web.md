@@ -1,0 +1,6 @@
+---
+layout: post
+title: What I want to do with web development
+---
+
+Now that I have started Bloc they asked me what area would I like to go into. Did I want to work with ecommerce? Did I want to focus on anything in particular? I have always been fascinated with creativity. Art is an amazing thing and how people can take crazy ideas in their heads and put them onto a medium blows my mind. Now I am not particularly creative. But I love building things. My eventual goal is to work for a digital marketing agency where I get to work with a design department and all their amazing graphic designers. I look forward to the challenge and joy of getting their crazy designs and using my coding knowledge to bring them to life. I don’t understand design very well but being able to take an idea that someone has and bring it to reality is something that really gets me excited. I have seen tons on pages on the internet where the pure creativity of them blow my mind. I never know how people come up with these ideas. Now although I don’t think I’ll ever be able to create those crazy designs by myself, I’ll be happy working with those people and taking their ideas and turning them into web pages for the world to see.
