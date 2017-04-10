@@ -1,0 +1,6 @@
+---
+layout: post
+title: Biggest Challenge So Far
+---
+
+I have loved my journey so far with Bloc. That doesn’t mean it hasn’t come with its set of frustrating moments. JavaScript and I have a love hate relationship. I love learning it and getting it right. But getting it wrong is so frustrating. There are moments I think I have my head wrapped around it and then all of a sudden I’m getting errors and the frustration begins again. It is by far my biggest weakness. I definitely need to apply as much of my free time to improving my skills in JavaScript. I have books, I have online courses, and I have my course work. I will keep working on it until it goes from being a weakness to being a strength. Web development it what I want to do. No matter how frustrated I get I am going to keep working hard until I success at it. I am well aware I am going to fail at certain times. But whenever you fail is an opportunity to learn, grow, and improve. I have put too much time into this and enjoy it way too much to give up now. So beware JS I’m coming for ya.
