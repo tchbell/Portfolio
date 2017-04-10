@@ -1,9 +1,12 @@
 ---
 layout: post
 title: BlocChat
-thumbnail-path:
+thumbnail-path: "img/screen-shot.png"
 short-description: BlocChat is my first attempted at combining AngularJs and Firebase.
 ---
+
+{:.center}
+![]({{ site.baseurl }}/img/screen-shot.png)
 
 ## Summary
 BlocChat was my first attempt combining AngularJs and Firebase. I created a basic chat app that could take a have someone create a username, create a new chat room, and submit messages to that specific chat room that were then saved into that specific room.
